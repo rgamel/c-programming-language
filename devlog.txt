@@ -1,0 +1,10 @@
+# K&R The C Programming Language Learning Log
+
+2025-03-13: preface, chapter 0, began chapter one up to end of 1.4
+2025-03-14: chapter 1, up to 1.5.3, stopped before Exercises 1-8, 1-9, 1-10
+
+-- :r!date<CR> for date, :r!whoami<CR> for id
+Sat Mar 15 13:02:58 CDT 2025
+rgamel
+Completed Exercise 1-8
+
