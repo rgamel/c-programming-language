@@ -1,0 +1,12 @@
+How would you test the word count program? 
+What kinds of input are most likely to uncover bugs if there are any?
+
+Test against various word/text lengths, including: 
+- zero words
+- one word
+- leading whitespace
+- trailing whitespace
+- linebreaks followed or lead by whitespace
+- leading or trailing punctuation
+
+
