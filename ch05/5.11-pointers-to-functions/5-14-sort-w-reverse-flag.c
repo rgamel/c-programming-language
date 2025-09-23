@@ -22,7 +22,7 @@ int numcmp(const char *s1, const char *s2);
 
 int reverseCompare(void *, void *);
 
-enum booelan { FALSE, TRUE };
+enum boolean { FALSE, TRUE };
 
 int (*baseCompare)(void *, void *);
 
